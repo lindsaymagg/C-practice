@@ -1,6 +1,4 @@
 # C-practice
-CS 250 Spring 2019
-
 January 2019, CS250 (Computer Architecture) HW#1 
 
 HoopsStats: Read in a file. The file is a series of player stats, where each player entry is 4 input lines long. The first line is the player’s last name, the second line is his jersey number (an int), the third line is his average points per game (a float), and the fourth line is his year of graduation (an int). The last line is the string “DONE”. Outputs a number of lines equal to the number of players, and each line is the player’s name and his jersey number and his year of graduation. The lines are sorted in descending order of average points per game, and I wrote my own sorting function.
